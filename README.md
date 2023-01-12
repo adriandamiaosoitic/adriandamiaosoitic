@@ -4,9 +4,9 @@
 **adriandamiaosoitic/adriandamiaosoitic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 <div align="center">
-  <a href="https://github.com/adriandamiaosoitic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriandamiaosoitic&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriandamiaosoitic&layout=compact&langs_count=7&theme=merko&locale=pt-br"/>
+  <a href="https://github.com/adriandamiao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriandamiao&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriandamiao&layout=compact&langs_count=7&theme=merko&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
