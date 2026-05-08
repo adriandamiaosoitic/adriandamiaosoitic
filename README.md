@@ -11,12 +11,12 @@ Atualmente trabalho como Desenvolvedor Fullstack Pleno para o [Grupo SOITIC](htt
 
 ![Stats](./profile/stats.svg)
 
-<div align="center">a
+<!-- <div align="center">a
   <a href="https://github.com/adriandamiao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriandamiao&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriandamiao&layout=compact&langs_count=5&theme=merko&locale=pt-br"/>
-</div>
- </a>
+</div> 
+ </a>-->
 <div style="display: inline_block"><br>
   <a href="https://dotnet.microsoft.com/en-us/">
      <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
