@@ -49,4 +49,4 @@ Atualmente trabalho como Desenvolvedor Fullstack Pleno para o [Grupo SOITIC](htt
   <a href="https://www.linkedin.com/in/adrian-dami%C3%A3o-69b1b8148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  
-![Snake animation](https://github.com/adriandamiao/adriandamiao/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/adriandamiaosoitic/adriandamiaosoitic/blob/output/github-contribution-grid-snake.svg)
