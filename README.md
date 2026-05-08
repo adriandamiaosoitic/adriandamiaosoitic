@@ -9,6 +9,8 @@ Atualmente trabalho como Desenvolvedor Fullstack Pleno para o [Grupo SOITIC](htt
 - :heavy_check_mark: Objetivo: Ser capaz de otimizar algo no ambiente em que vivo utilizando a computação. Update: Ajudar as pessoas a entenderem sobre programação 
 - 💬 Sobre mim: Amante de tecnologias, jogos de FPS, aviação, gosto de falar para as pessoas sobre programação e sou admirador/apoiador da Polícia. :computer: :video_game: :airplane: :rotating_light:
 
+![Stats](./profile/stats.svg)
+
 <div align="center">a
   <a href="https://github.com/adriandamiao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriandamiao&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
